@@ -1,0 +1,2043 @@
+{
+    "modes": ["PVP", "PVE", "PVPVE"],
+
+    "countries": ["EU", "NA"],
+
+    "region_types": ["Freeport", "Lawless", "Lawful", "Golden Age Ruin"],
+
+    "biomes": [
+        "Polar", 
+        "Western Tundra", "Central Tundra", "Eastern Tundra", 
+        "Western Temperate", "High Desert", "Eastern Temperate", 
+        "Western Tropics", "Low Desert", "Eastern Tropics",
+        "Equatorial"
+    ],
+
+    "regions": [
+        {
+            "region": "A1",
+            "ip": "46.251.238.59",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "A2",
+            "ip": "46.251.238.59",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "A3",
+            "ip": "46.251.238.59",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "A4",
+            "ip": "46.251.238.60",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "A5",
+            "ip": "46.251.238.60",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "A6",
+            "ip": "46.251.238.60",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Freeport"
+        },
+        {
+            "region": "A7",
+            "ip": "46.251.238.61",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "A8",
+            "ip": "46.251.238.61",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "A9",
+            "ip": "46.251.238.61",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "A10",
+            "ip": "46.251.238.62",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Freeport"
+        },
+        {
+            "region": "A11",
+            "ip": "46.251.238.62",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "A12",
+            "ip": "46.251.238.62",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "A13",
+            "ip": "46.251.238.63",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "A14",
+            "ip": "46.251.238.63",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "A15",
+            "ip": "46.251.238.63",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "B1",
+            "ip": "46.251.238.64",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "B2",
+            "ip": "46.251.238.64",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "B3",
+            "ip": "46.251.238.64",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "B4",
+            "ip": "46.251.238.65",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "B5",
+            "ip": "46.251.238.65",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "B6",
+            "ip": "46.251.238.65",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "B7",
+            "ip": "46.251.238.66",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "B8",
+            "ip": "46.251.238.66",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "B9",
+            "ip": "46.251.238.66",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "B10",
+            "ip": "46.251.238.67",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "B11",
+            "ip": "46.251.238.67",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "B12",
+            "ip": "46.251.238.67",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "B13",
+            "ip": "46.251.238.68",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "B14",
+            "ip": "46.251.238.68",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "B15",
+            "ip": "46.251.238.68",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "C1",
+            "ip": "46.251.238.69",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "C2",
+            "ip": "46.251.238.69",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "C3",
+            "ip": "46.251.238.69",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "C4",
+            "ip": "46.251.238.70",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "C5",
+            "ip": "46.251.238.70",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "C6",
+            "ip": "46.251.238.70",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "C7",
+            "ip": "46.251.238.71",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "C8",
+            "ip": "46.251.238.71",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "C9",
+            "ip": "46.251.238.71",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "C10",
+            "ip": "46.251.238.72",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "C11",
+            "ip": "46.251.238.72",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "C12",
+            "ip": "46.251.238.72",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "C13",
+            "ip": "46.251.238.73",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "C14",
+            "ip": "46.251.238.73",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Freeport"
+        },
+        {
+            "region": "C15",
+            "ip": "46.251.238.73",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawless"
+        },
+        {
+            "region": "D1",
+            "ip": "46.251.238.74",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "D2",
+            "ip": "46.251.238.74",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "D3",
+            "ip": "46.251.238.74",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "D4",
+            "ip": "46.251.238.75",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "D5",
+            "ip": "46.251.238.75",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "D6",
+            "ip": "46.251.238.75",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "D7",
+            "ip": "46.251.238.76",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "D8",
+            "ip": "46.251.238.76",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Freeport"
+        },
+        {
+            "region": "D9",
+            "ip": "46.251.238.76",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "D10",
+            "ip": "46.251.238.77",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "D11",
+            "ip": "46.251.238.77",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "D12",
+            "ip": "46.251.238.77",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "D13",
+            "ip": "46.251.238.78",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "D14",
+            "ip": "46.251.238.78",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "D15",
+            "ip": "46.251.238.78",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "E1",
+            "ip": "46.251.238.79",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "E2",
+            "ip": "46.251.238.79",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "E3",
+            "ip": "46.251.238.79",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "E4",
+            "ip": "46.251.238.80",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Freeport"
+        },
+        {
+            "region": "E5",
+            "ip": "46.251.238.80",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "E6",
+            "ip": "46.251.238.80",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "E7",
+            "ip": "46.251.238.81",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "E8",
+            "ip": "46.251.238.81",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "E9",
+            "ip": "46.251.238.81",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "E10",
+            "ip": "46.251.238.82",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "E11",
+            "ip": "46.251.238.82",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "E12",
+            "ip": "46.251.238.82",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Temperate",
+            "type": "Freeport"
+        },
+        {
+            "region": "E13",
+            "ip": "46.251.238.83",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "E14",
+            "ip": "46.251.238.83",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Western Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "E15",
+            "ip": "46.251.238.83",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "F1",
+            "ip": "46.251.238.84",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "F2",
+            "ip": "46.251.238.84",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "F3",
+            "ip": "46.251.238.84",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "F4",
+            "ip": "46.251.238.85",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "F5",
+            "ip": "46.251.238.85",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "F6",
+            "ip": "46.251.238.85",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "F7",
+            "ip": "46.251.238.86",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "F8",
+            "ip": "46.251.238.86",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "F9",
+            "ip": "46.251.238.86",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "F10",
+            "ip": "46.251.238.87",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "F11",
+            "ip": "46.251.238.87",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "F12",
+            "ip": "46.251.238.87",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "F13",
+            "ip": "46.251.238.88",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "F14",
+            "ip": "46.251.238.88",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "F15",
+            "ip": "46.251.238.88",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "G1",
+            "ip": "46.251.238.89",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "G2",
+            "ip": "46.251.238.89",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "G3",
+            "ip": "46.251.238.89",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "G4",
+            "ip": "46.251.238.90",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G5",
+            "ip": "46.251.238.90",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G6",
+            "ip": "46.251.238.90",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "G7",
+            "ip": "46.251.238.91",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Freeport"
+        },
+        {
+            "region": "G8",
+            "ip": "46.251.238.91",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "G9",
+            "ip": "46.251.238.91",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G10",
+            "ip": "46.251.238.92",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G11",
+            "ip": "46.251.238.92",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G12",
+            "ip": "46.251.238.92",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "G13",
+            "ip": "46.251.238.93",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "G14",
+            "ip": "46.251.238.93",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "G15",
+            "ip": "46.251.238.93",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "H1",
+            "ip": "46.251.238.94",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "H2",
+            "ip": "46.251.238.94",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "H3",
+            "ip": "46.251.238.94",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "H4",
+            "ip": "46.251.238.95",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "H5",
+            "ip": "46.251.238.95",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "H6",
+            "ip": "46.251.238.95",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "H7",
+            "ip": "46.251.238.96",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "H8",
+            "ip": "46.251.238.96",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "H9",
+            "ip": "46.251.238.96",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "H10",
+            "ip": "46.251.238.97",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "H11",
+            "ip": "46.251.238.97",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "H12",
+            "ip": "46.251.238.97",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "H13",
+            "ip": "46.251.238.98",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Freeport"
+        },
+        {
+            "region": "H14",
+            "ip": "46.251.238.98",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "H15",
+            "ip": "46.251.238.98",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "I1",
+            "ip": "46.251.238.99",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "I2",
+            "ip": "46.251.238.99",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "I3",
+            "ip": "46.251.238.99",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Freeport"
+        },
+        {
+            "region": "I4",
+            "ip": "46.251.238.100",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "I5",
+            "ip": "46.251.238.100",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I6",
+            "ip": "46.251.238.100",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I7",
+            "ip": "46.251.238.101",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I8",
+            "ip": "46.251.238.101",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "I9",
+            "ip": "46.251.238.101",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "I10",
+            "ip": "46.251.238.102",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I11",
+            "ip": "46.251.238.102",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I12",
+            "ip": "46.251.238.102",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "I13",
+            "ip": "46.251.238.103",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "I14",
+            "ip": "46.251.238.103",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "I15",
+            "ip": "46.251.238.103",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "J1",
+            "ip": "46.251.238.104",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "J2",
+            "ip": "46.251.238.104",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "J3",
+            "ip": "46.251.238.104",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "J4",
+            "ip": "46.251.238.105",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J5",
+            "ip": "46.251.238.105",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J6",
+            "ip": "46.251.238.105",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J7",
+            "ip": "46.251.238.106",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J8",
+            "ip": "46.251.238.106",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "J9",
+            "ip": "46.251.238.106",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Freeport"
+        },
+        {
+            "region": "J10",
+            "ip": "46.251.238.107",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Low Desert",
+            "type": "Lawless"
+        },
+        {
+            "region": "J11",
+            "ip": "46.251.238.107",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J12",
+            "ip": "46.251.238.107",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "High Desert",
+            "type": "Lawful"
+        },
+        {
+            "region": "J13",
+            "ip": "46.251.238.108",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "J14",
+            "ip": "46.251.238.108",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Central Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "J15",
+            "ip": "46.251.238.108",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "K1",
+            "ip": "46.251.238.109",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "K2",
+            "ip": "46.251.238.109",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "K3",
+            "ip": "46.251.238.109",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "K4",
+            "ip": "46.251.238.110",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "K5",
+            "ip": "46.251.238.110",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "K6",
+            "ip": "46.251.238.110",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "K7",
+            "ip": "46.251.238.111",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "K8",
+            "ip": "46.251.238.111",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "K9",
+            "ip": "46.251.238.111",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "K10",
+            "ip": "46.251.238.112",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "K11",
+            "ip": "46.251.238.112",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "K12",
+            "ip": "46.251.238.112",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "K13",
+            "ip": "46.251.238.113",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "K14",
+            "ip": "46.251.238.113",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "K15",
+            "ip": "46.251.238.113",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "L1",
+            "ip": "46.251.238.114",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "L2",
+            "ip": "46.251.238.114",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "L3",
+            "ip": "46.251.238.114",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "L4",
+            "ip": "46.251.238.115",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "L5",
+            "ip": "46.251.238.115",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Freeport"
+        },
+        {
+            "region": "L6",
+            "ip": "46.251.238.115",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "L7",
+            "ip": "46.251.238.116",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "L8",
+            "ip": "46.251.238.116",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Freeport"
+        },
+        {
+            "region": "L9",
+            "ip": "46.251.238.116",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "L10",
+            "ip": "46.251.238.117",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "L11",
+            "ip": "46.251.238.117",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "L12",
+            "ip": "46.251.238.117",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Freeport"
+        },
+        {
+            "region": "L13",
+            "ip": "46.251.238.118",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "L14",
+            "ip": "46.251.238.118",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "L15",
+            "ip": "46.251.238.118",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "M1",
+            "ip": "46.251.238.119",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawless"
+        },
+        {
+            "region": "M2",
+            "ip": "46.251.238.119",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Freeport"
+        },
+        {
+            "region": "M3",
+            "ip": "46.251.238.119",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "M4",
+            "ip": "46.251.238.120",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "M5",
+            "ip": "46.251.238.120",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawless"
+        },
+        {
+            "region": "M6",
+            "ip": "46.251.238.120",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "M7",
+            "ip": "46.251.238.121",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Freeport"
+        },
+        {
+            "region": "M8",
+            "ip": "46.251.238.121",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawless"
+        },
+        {
+            "region": "M9",
+            "ip": "46.251.238.121",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Freeport"
+        },
+        {
+            "region": "M10",
+            "ip": "46.251.238.122",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "M11",
+            "ip": "46.251.238.122",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "M12",
+            "ip": "46.251.238.122",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "M13",
+            "ip": "46.251.238.123",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "M14",
+            "ip": "46.251.238.123",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "M15",
+            "ip": "46.251.238.123",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "N1",
+            "ip": "46.251.238.124",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "N2",
+            "ip": "46.251.238.124",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawless"
+        },
+        {
+            "region": "N3",
+            "ip": "46.251.238.124",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "N4",
+            "ip": "46.251.238.125",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "N5",
+            "ip": "46.251.238.125",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "N6",
+            "ip": "46.251.238.125",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "N7",
+            "ip": "46.251.238.126",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "N8",
+            "ip": "46.251.238.126",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "N9",
+            "ip": "46.251.238.126",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "N10",
+            "ip": "46.251.238.127",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "N11",
+            "ip": "46.251.238.127",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "N12",
+            "ip": "46.251.238.127",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "N13",
+            "ip": "46.251.238.128",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "N14",
+            "ip": "46.251.238.128",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "N15",
+            "ip": "46.251.238.128",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "O1",
+            "ip": "46.251.238.129",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        },
+        {
+            "region": "O2",
+            "ip": "46.251.238.129",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "O3",
+            "ip": "46.251.238.129",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "O4",
+            "ip": "46.251.238.130",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "O5",
+            "ip": "46.251.238.130",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "O6",
+            "ip": "46.251.238.130",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "O7",
+            "ip": "46.251.238.131",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Golden Age Ruin"
+        },
+        {
+            "region": "O8",
+            "ip": "46.251.238.131",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Equatorial",
+            "type": "Lawful"
+        },
+        {
+            "region": "O9",
+            "ip": "46.251.238.131",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawful"
+        },
+        {
+            "region": "O10",
+            "ip": "46.251.238.132",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tropics",
+            "type": "Lawless"
+        },
+        {
+            "region": "O11",
+            "ip": "46.251.238.132",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "O12",
+            "ip": "46.251.238.132",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Temperate",
+            "type": "Lawful"
+        },
+        {
+            "region": "O13",
+            "ip": "46.251.238.133",
+            "port": 57555,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "O14",
+            "ip": "46.251.238.133",
+            "port": 57557,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Eastern Tundra",
+            "type": "Lawful"
+        },
+        {
+            "region": "O15",
+            "ip": "46.251.238.133",
+            "port": 57559,
+            "mode": "PVP",
+            "country": "EU",
+            "biome": "Polar",
+            "type": "Lawful"
+        }
+    ]
+}
