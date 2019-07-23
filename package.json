@@ -30,7 +30,8 @@
     "mysql": "^2.17.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "string-kit": "^0.9.9"
+    "string-kit": "^0.9.9",
+    "url-parse": "^1.4.7"
   },
   "devDependencies": {},
   "autoload": {
